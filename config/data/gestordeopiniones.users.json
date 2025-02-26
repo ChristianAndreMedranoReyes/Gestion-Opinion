@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "67bd3bec54f483c1c6023f6f"
+  },
+  "name": "Christian Medrano",
+  "username": "Chr1s",
+  "email": "cmedrano@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$/Mm7xSIO7/lrMy/mlkoDRQ$tTI+Gavx8GJNKaM6qFfpwoNXVhOb/UvH1bGtFY6UB7I",
+  "role": "ADMIN_ROLE",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-02-25T03:41:32.241Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-25T03:41:32.241Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67be65de6e1ec457d3610d85"
+  },
+  "name": "Christian",
+  "username": "Christian123",
+  "email": "christian@example.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$3SePeySltMYn2Vcll57psw$mQjwIbEZzCrgcdk8r1bZ5OpDd3fP6wy0YyeP6UG463w",
+  "role": "USER_ROLE",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-02-26T00:52:46.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T00:52:46.548Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67be74dc453cae550c36e6e9"
+  },
+  "name": "Mathias",
+  "username": "Mathijavk",
+  "email": "mathias@gmail.com",
+  "password": "$argon2id$v=19$m=65536,t=3,p=4$aXsZpYwYkk3fxdkoaSibYA$XKbkUr31V5hEwRWkW7RBa+kNryw571V06yKJVQnqcXE",
+  "role": "USER_ROLE",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-02-26T01:56:44.356Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T01:56:44.356Z"
+  }
+}]
