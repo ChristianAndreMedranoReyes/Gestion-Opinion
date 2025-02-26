@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "67bd3aa9774008a1576d96c0"
+  },
+  "name": "Videojuegos",
+  "description": "Los mejores juegos de la ultima decada",
+  "isDefault": true,
+  "status": true,
+  "createdAt": {
+    "$date": "2025-02-25T03:36:09.444Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T03:48:18.533Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67be90f5d84ed8056bfde43b"
+  },
+  "name": "Terror",
+  "description": "Los mejores sustos de las peliculas de terror",
+  "isDefault": false,
+  "status": true,
+  "createdAt": {
+    "$date": "2025-02-26T03:56:38.014Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T03:56:38.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67be9266683f2b26d476294d"
+  },
+  "name": "Default",
+  "description": "Categoría default",
+  "isDefault": true,
+  "status": true,
+  "createdAt": {
+    "$date": "2025-02-26T04:02:46.382Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T04:02:46.382Z"
+  }
+}]

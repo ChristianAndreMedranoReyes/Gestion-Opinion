@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "67be99b837b6b9844a3372d6"
+  },
+  "titulo": "Terror",
+  "categoria": {
+    "$oid": "67be90f5d84ed8056bfde43b"
+  },
+  "contenido": "Los mejores Slashers",
+  "author": {
+    "$oid": "67be65de6e1ec457d3610d85"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-02-26T04:34:00.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T04:34:00.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67be9a5b37b6b9844a3372da"
+  },
+  "titulo": "GOTYS",
+  "categoria": {
+    "$oid": "67bd3aa9774008a1576d96c0"
+  },
+  "contenido": "Los mejores Juegos de la historia",
+  "author": {
+    "$oid": "67be65de6e1ec457d3610d85"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-02-26T04:36:43.446Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-26T04:36:43.446Z"
+  }
+}]
